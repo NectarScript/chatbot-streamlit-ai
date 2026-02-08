@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # chatbot-streamlit-ai
 AI chatbot built with Streamlit and Ollama for local LLM interaction.
 =======
@@ -8,6 +7,17 @@ An interactive AI chatbot built using **Streamlit** and a locally hosted languag
 The application supports conversational memory and runs completely offline without relying on paid cloud APIs.
 
 ---
+
+## Screenshots
+
+### Chatbot Interface
+
+![Chatbot Demo 1](screenshots/chatbot-demo1.png)
+
+### AI Response Example
+
+![Chatbot Demo 2](screenshots/chatbot-demo2.png)
+
 
 ## 🚀 Features
 
